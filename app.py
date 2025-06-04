@@ -29,7 +29,7 @@ Please enter a DNA sequence (only letters **A**, **C**, **G**, and **T**) below,
 sequence = st.text_area("Input DNA Sequence", height=150)
 
 # Tombol untuk memicu prediksi
-if st.button("Prediction"):
+if st.button("Predict"):
     if not sequence:
         st.warning("Please enter a DNA sequence first.")
     else:
