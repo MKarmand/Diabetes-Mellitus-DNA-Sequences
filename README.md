@@ -10,7 +10,7 @@ Aplikasi ini adalah proyek machine learning berbasis **Streamlit** yang bertujua
 
 👉 **[Streamlit App](https://diabetes-mellitus-dna-sequences-mka.streamlit.app/)**
 
-> Gantilah URL di atas dengan link Streamlit Cloud Anda.
+
 
 ## 🚀 Fitur Utama
 
